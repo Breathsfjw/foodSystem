@@ -3,7 +3,7 @@ package it.cast.jiewen.main;
 import java.util.HashMap;
 import java.util.Map;
 
-/************* ¶©µ¥±í¶ÔÏó ************/
+/************* è®¢å•è¡¨å¯¹è±¡ ************/
 public class OrderInfoSet {
 	Map<Integer, OrderInfo> hashmap = new HashMap<Integer, OrderInfo>();
 
