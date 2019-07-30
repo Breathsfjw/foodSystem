@@ -5,7 +5,7 @@ public class Dish {
 	private double price;
 	private int like;
 	/************* 测试程序 ************/
-	/************* 程序入口 ************/
+	/************* 菜单对象 ************/
 	public Dish(String name, double price, int like) {
 		super();
 		this.name = name;
