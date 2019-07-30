@@ -4,8 +4,8 @@ public class Dish {
 	private String name;
 	private double price;
 	private int like;
-
-	/************* ²Ëµ¥¶ÔÏó ************/
+	/************* æµ‹è¯•ç¨‹åº ************/
+	/************* ç¨‹åºå…¥å£ ************/
 	public Dish(String name, double price, int like) {
 		super();
 		this.name = name;
